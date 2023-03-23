@@ -1,0 +1,9 @@
+==========Student==========
+name=zhangsan
+age=18
+sex=男
+height=185.0
+hobby=run
+==========Teacher==========
+name=王小明
+salary=8000.0
